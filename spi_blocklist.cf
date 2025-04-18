@@ -1,4 +1,4 @@
-# Creation date: 2025.04.11
+# Creation date: 2025.04.18
 # https://strefapi.com
 #
 # Domains form spamtrap for spamassasin
@@ -132,6 +132,7 @@ blacklist_from *@akool.io
 blacklist_from *@alerts.designspromotion.com
 blacklist_from *@alfainkasso.pl
 blacklist_from *@aljoaibgroup.com
+blacklist_from *@alkola.pl
 blacklist_from *@allbizpl.pl
 blacklist_from *@allekinllc.shop
 blacklist_from *@allgreendeal.com
@@ -399,6 +400,7 @@ blacklist_from *@clairepesqueux.fr
 blacklist_from *@cleanaholics.us
 blacklist_from *@cleverloop.pl
 blacklist_from *@cleversearch.info
+blacklist_from *@cleverwise.pl
 blacklist_from *@clicahy.com
 blacklist_from *@clickliv.com
 blacklist_from *@clickmaxkampanie.pl
@@ -626,6 +628,7 @@ blacklist_from *@egzekucja-ai.pl
 blacklist_from *@egzekucje-ochronabiznesu.pl
 blacklist_from *@ekofinto.pl
 blacklist_from *@ekonamo.pl
+blacklist_from *@ekosavo.pl
 blacklist_from *@elansolva.pl
 blacklist_from *@eldoradodistribuicao.com.br
 blacklist_from *@elec-qatar.com
@@ -1537,6 +1540,7 @@ blacklist_from *@ordacasino.com
 blacklist_from *@originateinc.pl
 blacklist_from *@originatepro.pl
 blacklist_from *@originationhub.pl
+blacklist_from *@originativeglobe.pl
 blacklist_from *@originhub.pl
 blacklist_from *@osk.ecweb.jp
 blacklist_from *@oskedu.pl
@@ -2132,6 +2136,7 @@ blacklist_from *@trojdzielnemax.pl
 blacklist_from *@tronic.lk
 blacklist_from *@tronox.com
 blacklist_from *@trudnydluznik.pl
+blacklist_from *@truewebtechnolabs.com
 blacklist_from *@trustbraintree.pl
 blacklist_from *@try-engagement-boost.com
 blacklist_from *@trypartnerwise.pro
@@ -2385,6 +2390,7 @@ blacklist_from *@zatoonaa.com
 blacklist_from *@zdobadz-fanow.pl
 blacklist_from *@zgo.de
 blacklist_from *@zhihanlot.com
+blacklist_from *@zilskonys.it.com
 blacklist_from *@zit3.co.pl
 blacklist_from *@ziz6.co.pl
 blacklist_from *@zjednoczeniprzedsiebiorcy.org.pl
