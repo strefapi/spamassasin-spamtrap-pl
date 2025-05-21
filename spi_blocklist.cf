@@ -1,4 +1,4 @@
-# Creation date: 2025.05.15
+# Creation date: 2025.05.21
 # https://strefapi.com
 #
 # Domains form spamtrap for spamassasin
@@ -18,6 +18,7 @@ blocklist_from *@*.gob.ec
 blocklist_from *@*.hostingkunde.de
 blocklist_from *@*.hubspotemail.net
 blocklist_from *@*.kacikklubowicza.pl
+blocklist_from *@*.l11lab.com
 blocklist_from *@*.leadsextra.co
 blocklist_from *@*.m.lrmailr.pl
 blocklist_from *@*.mailjet.com
@@ -58,6 +59,7 @@ blocklist_from *@5-1-2.com
 blocklist_from *@7zyczen.com.pl
 blocklist_from *@8.karar.my
 blocklist_from *@8.nxcli.io
+blocklist_from *@PE55Fs1i.sv.conordin.com
 blocklist_from *@a-send.pl
 blocklist_from *@aacc.org
 blocklist_from *@aalasaamaan.com
@@ -290,6 +292,7 @@ blocklist_from *@bizivio.pl
 blocklist_from *@bizlatica.com.pl
 blocklist_from *@bizlaunch.pl
 blocklist_from *@bizlume.pl
+blocklist_from *@bizmatik.pl
 blocklist_from *@biznator.pl
 blocklist_from *@bizneka.pl
 blocklist_from *@biznes-bezdlugow.pl
@@ -304,6 +307,7 @@ blocklist_from *@biznovaplus.pl
 blocklist_from *@biznow24.pl
 blocklist_from *@bizoffice.pl
 blocklist_from *@bizora.pl
+blocklist_from *@bizosto.pl
 blocklist_from *@bizqube.pl
 blocklist_from *@bizquesta.pl
 blocklist_from *@bizsaleprofit.pl
@@ -451,6 +455,7 @@ blocklist_from *@conlia.com.cn
 blocklist_from *@connected.pl
 blocklist_from *@conordin.com
 blocklist_from *@consultuplift.pl
+blocklist_from *@contact.l11lab.com
 blocklist_from *@contacteurpro.fr
 blocklist_from *@contlin.pl
 blocklist_from *@control.customperf.co
@@ -459,6 +464,7 @@ blocklist_from *@coolmail.pl
 blocklist_from *@copolecamy24.pl
 blocklist_from *@corfa.naklo.pl
 blocklist_from *@corpora.pl
+blocklist_from *@corporateconsultants.pl
 blocklist_from *@corporatelivewireawardsteam.com
 blocklist_from *@corporix.pl
 blocklist_from *@corpovate.pl
@@ -468,6 +474,7 @@ blocklist_from *@coverone.pl
 blocklist_from *@covid.co.pl
 blocklist_from *@covidochrona.pl
 blocklist_from *@cp.pr.gov.br
+blocklist_from *@cpaas8916926.nazwa.pl
 blocklist_from *@cpaheads.com
 blocklist_from *@craftedbiz.pl
 blocklist_from *@craftedscape.pl
@@ -1014,6 +1021,7 @@ blocklist_from *@intercity-hostel.net.ru
 blocklist_from *@interestingperspective.pl
 blocklist_from *@internoted.pl
 blocklist_from *@interwro.org.pl
+blocklist_from *@intlmediasolutions.com
 blocklist_from *@inujirushi.co.jp
 blocklist_from *@inversebizcell.pl
 blocklist_from *@investgoal.pl
@@ -1222,6 +1230,7 @@ blocklist_from *@kursycge.pl
 blocklist_from *@kursycge1.pl
 blocklist_from *@kusamodzielnosci.pl
 blocklist_from *@kuseyri.av.tr
+blocklist_from *@l11lab.com
 blocklist_from *@labat.waw.pl
 blocklist_from *@ladancoffee.ir
 blocklist_from *@ladna-stronka.pl
@@ -1293,6 +1302,7 @@ blocklist_from *@maildart.pl
 blocklist_from *@mailgait.com
 blocklist_from *@mailgun.itech.com.co
 blocklist_from *@mailgw8.chrobinson.com
+blocklist_from *@mailhaven.su
 blocklist_from *@mailin.fr
 blocklist_from *@mailing.lk.net.pl
 blocklist_from *@mailing.marketing
@@ -1313,6 +1323,7 @@ blocklist_from *@mandrillapp.com
 blocklist_from *@maoun.pl
 blocklist_from *@mar-im.com
 blocklist_from *@marker-poligrafia.com.pl
+blocklist_from *@marketanalysis.pl
 blocklist_from *@marketing-24.com.pl
 blocklist_from *@marketing-dla-kazdego.info
 blocklist_from *@marketing-follow.pl
@@ -1585,7 +1596,6 @@ blocklist_from *@pasywnywykonawca.pl
 blocklist_from *@patheditservices.com
 blocklist_from *@pawelmakowski.pl
 blocklist_from *@payonresultspr.co.uk
-blocklist_from *@PE55Fs1i.sv.conordin.com
 blocklist_from *@peakmail.pl
 blocklist_from *@pearsbd.com
 blocklist_from *@pek-sa.pl
@@ -1932,6 +1942,7 @@ blocklist_from *@skdpomoc.pl
 blocklist_from *@skill.edu.pl
 blocklist_from *@skinslets.pl
 blocklist_from *@skleponline.online
+blocklist_from *@skupujemyspolki.pl
 blocklist_from *@skuteczna-egzekucja.eu
 blocklist_from *@skuteczna-egzekucja.pl
 blocklist_from *@skuteczna-sprzedaz.pl
@@ -1948,6 +1959,7 @@ blocklist_from *@sniply.pl
 blocklist_from *@soceryserna.es
 blocklist_from *@socialelevateprox.com
 blocklist_from *@sociallly.pl
+blocklist_from *@socialmediaone.pl
 blocklist_from *@socialprofits.com.pl
 blocklist_from *@socialsparkimpact.co.uk
 blocklist_from *@sodankyle.com
@@ -2400,6 +2412,7 @@ blocklist_from *@zarmil.pl
 blocklist_from *@zasilek1830dlaopiekuna.pl
 blocklist_from *@zasobyfirma.pl
 blocklist_from *@zatoonaa.com
+blocklist_from *@zbudujwizerunek.pl
 blocklist_from *@zdobadz-fanow.pl
 blocklist_from *@zgo.de
 blocklist_from *@zhihanlot.com
