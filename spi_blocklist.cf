@@ -1,4 +1,4 @@
-# Creation date: 2025.05.21
+# Creation date: 2025.06.04
 # https://strefapi.com
 #
 # Domains form spamtrap for spamassasin
@@ -59,7 +59,6 @@ blocklist_from *@5-1-2.com
 blocklist_from *@7zyczen.com.pl
 blocklist_from *@8.karar.my
 blocklist_from *@8.nxcli.io
-blocklist_from *@PE55Fs1i.sv.conordin.com
 blocklist_from *@a-send.pl
 blocklist_from *@aacc.org
 blocklist_from *@aalasaamaan.com
@@ -281,6 +280,7 @@ blocklist_from *@biurowe360.pl
 blocklist_from *@biz-catalog.com
 blocklist_from *@bizbuild.pl
 blocklist_from *@bizcompanyonline.pl
+blocklist_from *@bizentrix.pl
 blocklist_from *@bizentro.pl
 blocklist_from *@bizetix.pl
 blocklist_from *@bizexpand.pl
@@ -514,6 +514,7 @@ blocklist_from *@cyiannopoulos.com
 blocklist_from *@czachol.waw.pl
 blocklist_from *@czchangbao.bmw.com.cn
 blocklist_from *@cze.pl
+blocklist_from *@czytelna-recenzja.pl
 blocklist_from *@d.changingemail.com
 blocklist_from *@d2dgroup.pl
 blocklist_from *@dahuaxiyou38.xyz
@@ -563,6 +564,7 @@ blocklist_from *@directcolab.pl
 blocklist_from *@directmailapp.com
 blocklist_from *@directproject24.pl
 blocklist_from *@discounting.ch
+blocklist_from *@discoverdawndesignstudios.one
 blocklist_from *@distpharmasia.com
 blocklist_from *@dlaciebiemax.pl
 blocklist_from *@dlafirm-slask2025.pl
@@ -640,6 +642,7 @@ blocklist_from *@egzekucje-ochronabiznesu.pl
 blocklist_from *@ekofinto.pl
 blocklist_from *@ekonamo.pl
 blocklist_from *@ekosavo.pl
+blocklist_from *@ekspercka-recenzja.pl
 blocklist_from *@elansolva.pl
 blocklist_from *@eldoradodistribuicao.com.br
 blocklist_from *@elec-qatar.com
@@ -666,6 +669,7 @@ blocklist_from *@energy-profit.pl
 blocklist_from *@energyprofit.info.pl
 blocklist_from *@engagementboost-offer.com
 blocklist_from *@enita.pl
+blocklist_from *@enterivo.com
 blocklist_from *@enterprio.pl
 blocklist_from *@enterprisegen.pl
 blocklist_from *@enterpriseinnovate.pl
@@ -761,6 +765,7 @@ blocklist_from *@finansowyfaktor.pl
 blocklist_from *@finansujemyeu.com.pl
 blocklist_from *@findmore24.pl
 blocklist_from *@finestpaydaydepot.com
+blocklist_from *@finetrix.pl
 blocklist_from *@finosta.pl
 blocklist_from *@finprom.pl
 blocklist_from *@finskares.de
@@ -793,6 +798,7 @@ blocklist_from *@fizjokoncept.co.pl
 blocklist_from *@fiztonsky.es
 blocklist_from *@flavigmae.cl
 blocklist_from *@flayp.com.py
+blocklist_from *@flexiq.pl
 blocklist_from *@flexisurge.pl
 blocklist_from *@flgreenhome.com
 blocklist_from *@flirtatious.com
@@ -1134,6 +1140,7 @@ blocklist_from *@jobfinder.pl
 blocklist_from *@joescakecollection.com
 blocklist_from *@john316.or.kr
 blocklist_from *@johndavidandpartners.com
+blocklist_from *@joinagents.co.uk
 blocklist_from *@joindelux.pl
 blocklist_from *@jolionets.ch
 blocklist_from *@joroinenae.digital
@@ -1498,6 +1505,7 @@ blocklist_from *@nf447.fd0.pl
 blocklist_from *@nf506.fd0.pl
 blocklist_from *@niesamowita-stronka.pl
 blocklist_from *@nietracbiznesu.pl
+blocklist_from *@nietypowa-recenzja.pl
 blocklist_from *@nieuregulowane-platnosci.pl
 blocklist_from *@niewychodz.co.pl
 blocklist_from *@niksellins.de
@@ -1596,6 +1604,7 @@ blocklist_from *@pasywnywykonawca.pl
 blocklist_from *@patheditservices.com
 blocklist_from *@pawelmakowski.pl
 blocklist_from *@payonresultspr.co.uk
+blocklist_from *@PE55Fs1i.sv.conordin.com
 blocklist_from *@peakmail.pl
 blocklist_from *@pearsbd.com
 blocklist_from *@pek-sa.pl
@@ -1791,6 +1800,7 @@ blocklist_from *@rbproduction.com.au
 blocklist_from *@realfans.pl
 blocklist_from *@realhong.com
 blocklist_from *@recaskonline.com
+blocklist_from *@recenzje-najlepsze.pl
 blocklist_from *@redakcje24.pl
 blocklist_from *@redcross.gm
 blocklist_from *@reflectiv.com
@@ -1950,6 +1960,7 @@ blocklist_from *@skuteczny-biznes.pl
 blocklist_from *@skuteczny-sprzedawca.pl
 blocklist_from *@skwebglobal.com
 blocklist_from *@slaney.pl
+blocklist_from *@slowne-recenzje.pl
 blocklist_from *@smartbizadvisor.pl
 blocklist_from *@smartnewbank.pl
 blocklist_from *@smartuvc.pl
@@ -2222,6 +2233,7 @@ blocklist_from *@vefsnabiz.pl
 blocklist_from *@vega-petroleums.com
 blocklist_from *@veneta.gr
 blocklist_from *@ventrado.pl
+blocklist_from *@ventrixio.pl
 blocklist_from *@ventrixor.pl
 blocklist_from *@ventro.waw.pl
 blocklist_from *@venturecraft.pl
@@ -2429,6 +2441,7 @@ blocklist_from *@zolonskim.ru
 blocklist_from *@zrabatowani24.pl
 blocklist_from *@zredukujnaleznosc.pl
 blocklist_from *@zredukujzobowiazania.pl
+blocklist_from *@zrozumiala-recenzja.pl
 blocklist_from *@zszaip.pl
 blocklist_from *@zwieksz-sprzedaz.pl
 blocklist_from *@zwiekszeniesprzedazy.pl
