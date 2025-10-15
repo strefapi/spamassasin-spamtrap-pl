@@ -1,4 +1,4 @@
-# Creation date: 2025.10.02
+# Creation date: 2025.10.15
 # https://strefapi.com
 #
 # Domains form spamtrap for spamassasin
@@ -318,6 +318,7 @@ blocklist_from *@bizoffice.pl
 blocklist_from *@bizora.pl
 blocklist_from *@bizosfera.pl
 blocklist_from *@bizosto.pl
+blocklist_from *@bizovo.pl
 blocklist_from *@bizqube.pl
 blocklist_from *@bizquesta.pl
 blocklist_from *@bizsaleprofit.pl
@@ -392,6 +393,7 @@ blocklist_from *@calmspring.pl
 blocklist_from *@camacfoy.pl
 blocklist_from *@campaign.freshmail.mx
 blocklist_from *@cantierigiomar.it
+blocklist_from *@capitalivo.com
 blocklist_from *@carnoch.pl
 blocklist_from *@caroseria.com.pl
 blocklist_from *@case-pack.com.pl
@@ -866,6 +868,7 @@ blocklist_from *@fotowoltaika-2021.pl
 blocklist_from *@fotowoltaika-hymon.pl
 blocklist_from *@fpastron.jp
 blocklist_from *@fqvietnam.com
+blocklist_from *@fravix.pl
 blocklist_from *@freightquote.com
 blocklist_from *@freshcreators.pl
 blocklist_from *@freshmail.mx
@@ -1810,6 +1813,7 @@ blocklist_from *@profitmasters.pl
 blocklist_from *@profitmaximizerhub.pl
 blocklist_from *@profitora.pl
 blocklist_from *@profitpact.pl
+blocklist_from *@profitstep.pl
 blocklist_from *@profitzu.pl
 blocklist_from *@profizor.pl
 blocklist_from *@progresjalink.eu
@@ -1936,6 +1940,7 @@ blocklist_from *@sbagency.sk
 blocklist_from *@sbsengenharia.com.br
 blocklist_from *@scaledhflaw.pro
 blocklist_from *@scalenook.pl
+blocklist_from *@scalix.pl
 blocklist_from *@scart24.cc
 blocklist_from *@schlau.com
 blocklist_from *@schlil.se
@@ -2209,6 +2214,7 @@ blocklist_from *@thisprofit.pl
 blocklist_from *@thtgroups.com
 blocklist_from *@tigagroup.co.id
 blocklist_from *@tillamook.pl
+blocklist_from *@timmerlokaal.nl
 blocklist_from *@tinlo.pl
 blocklist_from *@tipolions.de
 blocklist_from *@tise.pl
@@ -2243,6 +2249,7 @@ blocklist_from *@tredpol.pl
 blocklist_from *@trendtraverse.pl
 blocklist_from *@trignotech.co
 blocklist_from *@tripod.com
+blocklist_from *@trivon.pl
 blocklist_from *@trixen.pl
 blocklist_from *@trojdzielnemax.pl
 blocklist_from *@tronic.lk
@@ -2295,6 +2302,7 @@ blocklist_from *@upadlosc-biznes.pl
 blocklist_from *@upadlosc-firma.pl
 blocklist_from *@upco.pl
 blocklist_from *@update.com
+blocklist_from *@uprisem.com
 blocklist_from *@usatrademission.org
 blocklist_from *@uslugi-szkoleniowe.com.pl
 blocklist_from *@utuo.zgora.pl
@@ -2355,6 +2363,7 @@ blocklist_from *@voiceofturk.com
 blocklist_from *@vps-net.eu
 blocklist_from *@vps-newsletterwp.pl
 blocklist_from *@vr2020.pl
+blocklist_from *@vvpofis.ru
 blocklist_from *@vxbill.com
 blocklist_from *@w-comm.pl
 blocklist_from *@w-lutym-bez-vat.pl
