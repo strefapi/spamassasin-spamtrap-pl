@@ -1,4 +1,4 @@
-# Creation date: 2025.10.15
+# Creation date: 2025.11.11
 # https://strefapi.com
 #
 # Domains form spamtrap for spamassasin
@@ -27,6 +27,7 @@ blocklist_from *@*.mktomail.com
 blocklist_from *@*.naklo.pl
 blocklist_from *@*.net3-tv.net
 blocklist_from *@*.oskedu.pl
+blocklist_from *@*.rejestrbiznesowy.pl
 blocklist_from *@*.rsgsv.net
 blocklist_from *@*.rwire.in
 blocklist_from *@*.salesforce.com
@@ -64,6 +65,7 @@ blocklist_from *@aacc.org
 blocklist_from *@aalasaamaan.com
 blocklist_from *@ab-comm.pl
 blocklist_from *@ab-send.pl
+blocklist_from *@abades.pl
 blocklist_from *@abak.com.pl
 blocklist_from *@abbeymot.co.uk
 blocklist_from *@abc-book.com
@@ -301,6 +303,7 @@ blocklist_from *@bizlatica.com.pl
 blocklist_from *@bizlaunch.pl
 blocklist_from *@bizlume.pl
 blocklist_from *@bizmatik.pl
+blocklist_from *@bizmio.pl
 blocklist_from *@biznator.pl
 blocklist_from *@bizneka.pl
 blocklist_from *@biznes-bezdlugow.pl
@@ -326,7 +329,9 @@ blocklist_from *@bizsol24.pl
 blocklist_from *@bizspark.pl
 blocklist_from *@bizsphere.pl
 blocklist_from *@bizstep.pl
+blocklist_from *@bizterior.pl
 blocklist_from *@bizthere.pl
+blocklist_from *@bizuno.pl
 blocklist_from *@bizwise.pl
 blocklist_from *@bizyno.pl
 blocklist_from *@bizzone.eu
@@ -353,6 +358,7 @@ blocklist_from *@booksaners.de
 blocklist_from *@boolkins.be
 blocklist_from *@boram.com
 blocklist_from *@botlebuhlebrands.co.za
+blocklist_from *@bounce-zem.rejestrbiznesowy.pl
 blocklist_from *@bounce.gr-mail1.com
 blocklist_from *@bounce.newsletter.g1ant.com
 blocklist_from *@bounce.tomtom.com
@@ -426,6 +432,7 @@ blocklist_from *@cleanaholics.us
 blocklist_from *@cleverloop.pl
 blocklist_from *@cleversearch.info
 blocklist_from *@cleverwise.pl
+blocklist_from *@clevra.pl
 blocklist_from *@clicahy.com
 blocklist_from *@clickliv.com
 blocklist_from *@clickmaxkampanie.pl
@@ -439,6 +446,7 @@ blocklist_from *@clippingpathsample.com
 blocklist_from *@closingscheme.com
 blocklist_from *@cloud.uautonoma.cl
 blocklist_from *@cloudcomrade.pl
+blocklist_from *@clovermandalay.org
 blocklist_from *@cluodme.com
 blocklist_from *@clwawards.com
 blocklist_from *@cmail19.com
@@ -458,6 +466,8 @@ blocklist_from *@cometo-energy.pl
 blocklist_from *@cometo.bitrix24.pl
 blocklist_from *@commalix.pl
 blocklist_from *@comments-engagementboost.com
+blocklist_from *@commenvo.com
+blocklist_from *@commenvo.pl
 blocklist_from *@commercesolutions.pl
 blocklist_from *@commercia.pl
 blocklist_from *@commercialsolutions.pl
@@ -803,6 +813,7 @@ blocklist_from *@findmore24.pl
 blocklist_from *@finestpaydaydepot.com
 blocklist_from *@finetrix.pl
 blocklist_from *@finosta.pl
+blocklist_from *@finovix.pl
 blocklist_from *@finprom.pl
 blocklist_from *@finskares.de
 blocklist_from *@finstalles.free.hr
@@ -828,6 +839,7 @@ blocklist_from *@firmovvi.pl
 blocklist_from *@firmowastrefa.pl
 blocklist_from *@firmowykredyt.com.pl
 blocklist_from *@firmowymarketing.com.pl
+blocklist_from *@firmza.pl
 blocklist_from *@fitakolaser.ru
 blocklist_from *@fitness-vr.pl
 blocklist_from *@fixedclix.com
@@ -1075,7 +1087,9 @@ blocklist_from *@interwro.org.pl
 blocklist_from *@intlmediasolutions.com
 blocklist_from *@inujirushi.co.jp
 blocklist_from *@inversebizcell.pl
+blocklist_from *@invessy.pl
 blocklist_from *@investgoal.pl
+blocklist_from *@investiqo.pl
 blocklist_from *@investlead24.pl
 blocklist_from *@investmentstrategies.pl
 blocklist_from *@investsense.pl
@@ -1272,6 +1286,7 @@ blocklist_from *@kredyt-bgk.pl
 blocklist_from *@kredyt-deminims.com.pl
 blocklist_from *@kredyt-gwarancja.pl
 blocklist_from *@kruszewski-agencja.info
+blocklist_from *@ksc.org.pl
 blocklist_from *@kseropapier.pl
 blocklist_from *@kseropapir.waw.pl
 blocklist_from *@ktrm.pl
@@ -1308,6 +1323,7 @@ blocklist_from *@lekrteose.com
 blocklist_from *@lelitik.com
 blocklist_from *@lersas.com
 blocklist_from *@les-gardons.fr
+blocklist_from *@levoro.pl
 blocklist_from *@lex-ai.pl
 blocklist_from *@lfsouring.com
 blocklist_from *@libertyline.nl
@@ -1480,6 +1496,7 @@ blocklist_from *@mohdo.pl
 blocklist_from *@mojeszkolenia.pl
 blocklist_from *@mojod24.com
 blocklist_from *@molignee.pl
+blocklist_from *@monetria.pl
 blocklist_from *@monit-ai.pl
 blocklist_from *@monit-gi.pl
 blocklist_from *@moonfruit.com
@@ -1613,6 +1630,7 @@ blocklist_from *@onemorechanc.com
 blocklist_from *@onesocialmedia.eu
 blocklist_from *@onlinespace.com.pl
 blocklist_from *@onlinetradesystem.pl
+blocklist_from *@opinia-lepsza.pl
 blocklist_from *@opinie-google.online
 blocklist_from *@opten.eu
 blocklist_from *@optifirm.pl
@@ -1728,6 +1746,7 @@ blocklist_from *@podziel-sie-opinia.pl
 blocklist_from *@pogotowie-komputerowe-w-warszawie.com.pl
 blocklist_from *@pogotowie-komputerowe.online
 blocklist_from *@polarki.waw.pl
+blocklist_from *@polprofitpath.pl
 blocklist_from *@polska-smpt1.xyz
 blocklist_from *@polska-smpt2.xyz
 blocklist_from *@polska-smpt3.xyz
@@ -1831,6 +1850,7 @@ blocklist_from *@prosending.pl
 blocklist_from *@prosperplaza.pl
 blocklist_from *@prospirex.pl
 blocklist_from *@prostyfaktoring.com
+blocklist_from *@proupominki.pl
 blocklist_from *@provomint.com
 blocklist_from *@przeciw-wirusom.pl
 blocklist_from *@przeciwcovid.pl
@@ -1844,6 +1864,7 @@ blocklist_from *@pulsewise.pl
 blocklist_from *@pulsio.net
 blocklist_from *@puregrowthonline.pl
 blocklist_from *@pureprogress.pl
+blocklist_from *@pusmak.co.uk
 blocklist_from *@pwcontrolling.com.pl
 blocklist_from *@pwwarsztaty.pl
 blocklist_from *@q-ww.online
@@ -1870,6 +1891,7 @@ blocklist_from *@recenzje-najlepsze.pl
 blocklist_from *@redakcje24.pl
 blocklist_from *@redcross.gm
 blocklist_from *@reflectiv.com
+blocklist_from *@rejestrbiznesowy.pl
 blocklist_from *@rejetv.co.pl
 blocklist_from *@renet.ru
 blocklist_from *@renew-subscription.d-jordan.com
@@ -1940,6 +1962,7 @@ blocklist_from *@sbagency.sk
 blocklist_from *@sbsengenharia.com.br
 blocklist_from *@scaledhflaw.pro
 blocklist_from *@scalenook.pl
+blocklist_from *@scalera.pl
 blocklist_from *@scalix.pl
 blocklist_from *@scart24.cc
 blocklist_from *@schlau.com
@@ -1949,6 +1972,7 @@ blocklist_from *@sciencelabuk.com
 blocklist_from *@scpdopog.pl
 blocklist_from *@scrapmybusiness.com
 blocklist_from *@searchranknow.com
+blocklist_from *@secretpromo.pl
 blocklist_from *@securepolicy.pl
 blocklist_from *@secureserver.net
 blocklist_from *@sedatatkinymm.com
@@ -2229,6 +2253,7 @@ blocklist_from *@tollgroup.com
 blocklist_from *@tomaras.pl
 blocklist_from *@tomeigroup.co.jp
 blocklist_from *@top10-pozycje-leads.info
+blocklist_from *@topdzierzawa.pl
 blocklist_from *@topwebsite24.pl
 blocklist_from *@topwynikiseopl.pl
 blocklist_from *@torba.waw.pl
@@ -2322,6 +2347,7 @@ blocklist_from *@veneta.gr
 blocklist_from *@ventikoglobal.pl
 blocklist_from *@ventorio.pl
 blocklist_from *@ventrado.pl
+blocklist_from *@ventrixer.pl
 blocklist_from *@ventrixio.pl
 blocklist_from *@ventrixor.pl
 blocklist_from *@ventro.waw.pl
@@ -2359,6 +2385,7 @@ blocklist_from *@vividpod.pl
 blocklist_from *@vividpulse.pl
 blocklist_from *@vizerfare.de
 blocklist_from *@vizero.pl
+blocklist_from *@vnovastek.homes
 blocklist_from *@voiceofturk.com
 blocklist_from *@vps-net.eu
 blocklist_from *@vps-newsletterwp.pl
@@ -2377,9 +2404,12 @@ blocklist_from *@warsztatyplatforma.pl
 blocklist_from *@warsztatypw.pl
 blocklist_from *@wasilewski.com.pl
 blocklist_from *@wasowska-malina.net.pl
+blocklist_from *@wattlabel.nl
 blocklist_from *@wbr22.win
+blocklist_from *@we-creation.pl
 blocklist_from *@wealthbuilderhub.pl
 blocklist_from *@wealthify.pl
+blocklist_from *@wealthivo.pl
 blocklist_from *@wealthway.pl
 blocklist_from *@web-courses.pl
 blocklist_from *@web-seo.com.pl
@@ -2544,3 +2574,4 @@ blocklist_from *@zwieksz-sprzedaz.pl
 blocklist_from *@zwiekszeniesprzedazy.pl
 blocklist_from *@zwrotadmin.pl
 blocklist_from *@zyjemimowszystko.pl
+blocklist_from *@zysk.com.pl
