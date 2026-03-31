@@ -1,4 +1,4 @@
-# Creation date: 2026.03.14
+# Creation date: 2026.03.31
 # https://strefapi.com
 #
 # Domains form spamtrap for spamassasin
@@ -11,6 +11,7 @@ blocklist_from *@*.edu.ec
 blocklist_from *@*.ehra.de
 blocklist_from *@*.emaillabs.net.pl
 blocklist_from *@*.fd0.pl
+blocklist_from *@*.firebaseapp.com
 blocklist_from *@*.forthnet.gr
 blocklist_from *@*.freshmail.mx
 blocklist_from *@*.futuristicsuperfoods.si
@@ -108,6 +109,7 @@ blocklist_from *@agencja-evada.pl
 blocklist_from *@agencjait.com
 blocklist_from *@agencjait.uk
 blocklist_from *@agencjanamedal.pl
+blocklist_from *@agentgraphique.com
 blocklist_from *@agotop.cz
 blocklist_from *@agreementdeal.pl
 blocklist_from *@agroas.home.pl
@@ -156,6 +158,7 @@ blocklist_from *@alzawrae.com
 blocklist_from *@amanikibera.co.ke
 blocklist_from *@amantech.karar.my
 blocklist_from *@amitadidi.com
+blocklist_from *@amongbusinesses.pl
 blocklist_from *@anaghtech.com
 blocklist_from *@anahuac.mx
 blocklist_from *@analystcountry.shop
@@ -389,6 +392,7 @@ blocklist_from *@buildvision.pl
 blocklist_from *@burburbur.pl
 blocklist_from *@burreet.com
 blocklist_from *@business-leasing.pl
+blocklist_from *@business-master.pl
 blocklist_from *@business-news.eu
 blocklist_from *@businesscooperation.eu
 blocklist_from *@businesscostsmarket.pl
@@ -504,6 +508,7 @@ blocklist_from *@control.customperf.co
 blocklist_from *@conversionoptimization.pl
 blocklist_from *@coobame.pro
 blocklist_from *@coolmail.pl
+blocklist_from *@copix-kopiarki.eu
 blocklist_from *@copolecamy24.pl
 blocklist_from *@corfa.naklo.pl
 blocklist_from *@corpora.pl
@@ -868,6 +873,7 @@ blocklist_from *@fizjokoncept.co.pl
 blocklist_from *@fiztonsky.es
 blocklist_from *@flavigmae.cl
 blocklist_from *@flayp.com.py
+blocklist_from *@flexgips.com
 blocklist_from *@flexiq.pl
 blocklist_from *@flexisurge.pl
 blocklist_from *@flgreenhome.com
@@ -1257,6 +1263,7 @@ blocklist_from *@kancelaria-ai.pl
 blocklist_from *@kancelaria-prawna24.eu
 blocklist_from *@karlsttad.com
 blocklist_from *@karodrukarnia.pl
+blocklist_from *@kartki-czachorowski.pl
 blocklist_from *@kasaioranje.com
 blocklist_from *@kasiodw.pl
 blocklist_from *@kasnico.pl
@@ -1378,7 +1385,9 @@ blocklist_from *@lukaszbrus-webmail.pl
 blocklist_from *@lukbeloil.com
 blocklist_from *@lukratywne-seo.pl
 blocklist_from *@lux-review.com
+blocklist_from *@luxaura.eu
 blocklist_from *@lxomk.com
+blocklist_from *@lycon.co.id
 blocklist_from *@m-comm.pl
 blocklist_from *@m-ppk.pl
 blocklist_from *@ma.net3-tv.net
@@ -1620,6 +1629,7 @@ blocklist_from *@niewychodz.co.pl
 blocklist_from *@niksellins.de
 blocklist_from *@nistalle.gb.net
 blocklist_from *@nl.mandoria.pl
+blocklist_from *@nmark.co.jp
 blocklist_from *@nminerals.com
 blocklist_from *@no693.om0.pl
 blocklist_from *@noorarash.com
@@ -1914,6 +1924,7 @@ blocklist_from *@pusmak.co.uk
 blocklist_from *@pwcontrolling.com.pl
 blocklist_from *@pwwarsztaty.pl
 blocklist_from *@q-ww.online
+blocklist_from *@qgui777com.com
 blocklist_from *@qualtrics-survey.com
 blocklist_from *@quantro.pl
 blocklist_from *@quantumcoz.com
@@ -1925,6 +1936,7 @@ blocklist_from *@racefollower.com
 blocklist_from *@racing-club.ru
 blocklist_from *@radcyfinansowi.pl
 blocklist_from *@radflip.pl
+blocklist_from *@rains4brain.eu
 blocklist_from *@raster.com.pl
 blocklist_from *@ratujfinanse.pl
 blocklist_from *@ratunek-business.pl
@@ -1987,6 +1999,7 @@ blocklist_from *@rzetelne.site
 blocklist_from *@rzetelnykredyt.pl
 blocklist_from *@rzksiegowosc.pl
 blocklist_from *@rzmuzzm.pl
+blocklist_from *@s.trakhs.org
 blocklist_from *@s954337.srvape.com
 blocklist_from *@s959788.srvape.com
 blocklist_from *@sable-distribution.com
@@ -2062,6 +2075,7 @@ blocklist_from *@serravalle.pl
 blocklist_from *@server.revolutioncart.com
 blocklist_from *@server071027.nazwa.pl
 blocklist_from *@serveread.com
+blocklist_from *@servicesforyou.pl
 blocklist_from *@servopa.com.br
 blocklist_from *@serwer2497390.home.pl
 blocklist_from *@serwis-lapopow24.site
@@ -2192,6 +2206,7 @@ blocklist_from *@strony-24h.pl
 blocklist_from *@studio-on.pl
 blocklist_from *@studioclickhouse.com.bd
 blocklist_from *@studiodn.pl
+blocklist_from *@studiodock.eu
 blocklist_from *@suavjarvi.pl
 blocklist_from *@subventuro.com
 blocklist_from *@successformula.pl
