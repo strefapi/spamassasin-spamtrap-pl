@@ -1,4 +1,4 @@
-# Creation date: 2026.03.31
+# Creation date: 2026.06.13
 # https://strefapi.com
 #
 # Domains form spamtrap for spamassasin
@@ -477,6 +477,7 @@ blocklist_from *@codepro.info
 blocklist_from *@codivi.pl
 blocklist_from *@coglux.pl
 blocklist_from *@colinstolil.bond
+blocklist_from *@color-laboratory.com
 blocklist_from *@colormedia.com.pl
 blocklist_from *@columnside.pl
 blocklist_from *@cometo-energy.pl
@@ -667,6 +668,7 @@ blocklist_from *@dotmedia.pl
 blocklist_from *@dowindykacji.pl
 blocklist_from *@doxon.jp
 blocklist_from *@dpoczta.pl
+blocklist_from *@dr-schilling.at
 blocklist_from *@draftoffice.pl
 blocklist_from *@drammen.pl
 blocklist_from *@drapfile.com
@@ -1379,6 +1381,7 @@ blocklist_from *@lifestylegarden.es
 blocklist_from *@light-office-star.pl
 blocklist_from *@like4like.pl
 blocklist_from *@lionairthai.com
+blocklist_from *@lista-recenzji.pl
 blocklist_from *@listy.lazystore.pl
 blocklist_from *@lmlogistic.pl
 blocklist_from *@lmsdc.com
@@ -1447,6 +1450,7 @@ blocklist_from *@mandoria.pl
 blocklist_from *@mandrillapp.com
 blocklist_from *@maoun.pl
 blocklist_from *@mar-im.com
+blocklist_from *@marbiz.pl
 blocklist_from *@marker-poligrafia.com.pl
 blocklist_from *@marketanalysis.pl
 blocklist_from *@marketing-24.com.pl
@@ -1572,6 +1576,7 @@ blocklist_from *@mta0.to-therm.pl
 blocklist_from *@mtnbadges.com
 blocklist_from *@mugp-nv.ru
 blocklist_from *@murator24.pl
+blocklist_from *@murauer-fenster.at
 blocklist_from *@murnauer.blog
 blocklist_from *@mutlakaye.com
 blocklist_from *@myblissbodyolivia.uk
@@ -1629,6 +1634,7 @@ blocklist_from *@newsletter-poland.xyz
 blocklist_from *@newsletterbiznespremium.com
 blocklist_from *@newsletterdmailad.pl
 blocklist_from *@newsletternews.pl
+blocklist_from *@newswooster.com
 blocklist_from *@nexaro24.pl
 blocklist_from *@nexdo24.pl
 blocklist_from *@nexgenpg.co.kr
@@ -1655,6 +1661,7 @@ blocklist_from *@novestin.beauty
 blocklist_from *@nowa-pozycja.com
 blocklist_from *@nowa-stronka.pl
 blocklist_from *@nowapromocja.pl
+blocklist_from *@nowcraftbuild.info
 blocklist_from *@nowe-bony.eu
 blocklist_from *@nowe-bony.online
 blocklist_from *@nowe24promo.pl
@@ -1889,6 +1896,7 @@ blocklist_from *@privacy-explorium.org
 blocklist_from *@privacy.khakassia.su
 blocklist_from *@privatemain.pl
 blocklist_from *@pro-email.pl
+blocklist_from *@proadverthelp.com
 blocklist_from *@procento.pl
 blocklist_from *@produce-tech.pl
 blocklist_from *@produkty-antybakteryjne.co.pl
@@ -2315,6 +2323,7 @@ blocklist_from *@tgb2b.pl
 blocklist_from *@tgbuy.pl
 blocklist_from *@tgfotowoltaika.pl
 blocklist_from *@tgpromo.pl
+blocklist_from *@thecorporatelivewireawards.com
 blocklist_from *@theinstachampionmax.co
 blocklist_from *@theprestigeawards.co.uk
 blocklist_from *@theroistamina.site
@@ -2594,6 +2603,7 @@ blocklist_from *@wybierzrozwoj.pl
 blocklist_from *@wyjazdoweseminaria.pl
 blocklist_from *@wykawaizami.pl
 blocklist_from *@wykladowca.pl
+blocklist_from *@wyprzedazwpolsce.media
 blocklist_from *@wyslij.co
 blocklist_from *@wysmienite-stronki.pl
 blocklist_from *@wysypofert.pl
@@ -2608,6 +2618,7 @@ blocklist_from *@xiaohe13.jojwe2.top
 blocklist_from *@xiaohe13.oqj0a.top
 blocklist_from *@xn--zaprabat-6ob.pl
 blocklist_from *@xntlpw.org
+blocklist_from *@xsealslogisticsltd.com
 blocklist_from *@xyz-newsletter.online
 blocklist_from *@y-comm.pl
 blocklist_from *@yasuoka-j.co.jp
@@ -2771,6 +2782,7 @@ blocklist_from inbusiv@mail.com
 blocklist_from info.ayatrabiaph@gmail.com
 blocklist_from info.photocorrectionstudio@gmail.com
 blocklist_from infodearclipping@gmail.com
+blocklist_from irazawatson@gmail.com
 blocklist_from iris.fabre@live.fr
 blocklist_from irjahelen@hotmail.com
 blocklist_from j.szczepanski@iphils.uj.edu.pl
@@ -2869,6 +2881,7 @@ blocklist_from rafal_ryc5@op.pl
 blocklist_from ramanetidjani85@gmail.com
 blocklist_from rawretouching935@gmail.com
 blocklist_from reflection.lighting@gmail.com
+blocklist_from retoucher.samantha@gmail.com
 blocklist_from rounak.photonretouch@gmail.com
 blocklist_from s42663741@gmail.com
 blocklist_from sahmmed26@gmail.com
